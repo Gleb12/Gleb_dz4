@@ -1,0 +1,18 @@
+﻿Build started 11.04.2015 19:47:24.
+     1>Project "c:\Users\Глеб\documents\visual studio 2013\Projects\github_tree\github_tree\github_tree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\github_tree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\github_tree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt github_tree.cpp
+         github_tree.cpp
+     1>c:\users\глеб\documents\visual studio 2013\projects\github_tree\github_tree\github_tree.cpp(21): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\глеб\documents\visual studio 2013\projects\github_tree\github_tree\github_tree.cpp(44): warning C4101: 'j' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\глеб\documents\visual studio 2013\Projects\github_tree\Debug\github_tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\глеб\documents\visual studio 2013\Projects\github_tree\Debug\github_tree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\глеб\documents\visual studio 2013\Projects\github_tree\Debug\github_tree.lib" /MACHINE:X86 Debug\github_tree.obj
+         Debug\stdafx.obj
+         github_tree.vcxproj -> c:\users\глеб\documents\visual studio 2013\Projects\github_tree\Debug\github_tree.exe
+     1>Done Building Project "c:\Users\Глеб\documents\visual studio 2013\Projects\github_tree\github_tree\github_tree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.46
